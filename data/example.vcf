@@ -1,0 +1,13 @@
+##fileformat=VCFv4.2
+##source=SyntheticExample
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+chr1	1001	.	A	G	60	PASS	.
+chr1	1050	.	C	T	45	PASS	.
+chr1	1100	.	AT	A	50	PASS	.
+chr1	1150	.	G	GTA	55	PASS	.
+chr1	1200	.	T	C	35	PASS	.
+chr1	1250	.	A	AT	40	PASS	.
+chr1	1300	.	G	A	70	PASS	.
+chr1	1350	.	C	CT	65	PASS	.
+chr1	1400	.	T	G	30	PASS	.
+chr1	1450	.	GA	G	80	PASS	.
